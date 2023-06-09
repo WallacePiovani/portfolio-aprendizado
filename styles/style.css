@@ -130,6 +130,7 @@ body {
     }
     .cabecalho__menu{
         justify-content: center;
+        width: auto;
     }
 
     .main_apresentacao{
